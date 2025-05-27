@@ -110,7 +110,7 @@ npm install
 
 # Run locally
 npm run dev.
-🤝 Contributing.
+## 🤝 Contributing.
 #### We welcome contributions! Whether it's fixing bugs, adding features, or improving documentation — feel free to fork and submit a pull request.
 
 # 📃 License
