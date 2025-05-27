@@ -1,5 +1,8 @@
 # 🌐 GiiT Community Web App
-Your All-in-One Platform for Learning, Collaboration, Real-Time Communication, and AI Assistance
+Your All-in-One Platform for Learning, Collaboration, Real-Time Communication, and AI Assistance.
+# About GiiT.
+# *GiiT (Genius Institute of Information Technology)* is a young Ugandan startup on a mission to scale digital education across Africa. We offer private, hybrid (online/physical) coding and tech classes for kids aged 5 and up—ranging from computer basics to advanced topics in Data and Computer Science. Our flexible programs include cohort-based learning, holiday tech bootcamps, and personalized homeschooling support, empowering the next generation of innovators.
+
 
 The GiiT Community App is a next-generation, cloud-powered platform built to empower developers, learners, educators, and communities. It combines the best of learning management systems, messaging apps, collaboration hubs, AI tools, and SaaS-based access control — all in one streamlined experience.
 
